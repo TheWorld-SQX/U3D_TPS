@@ -1,0 +1,8 @@
+<Root>
+  <User user_name="Admin" user_pass="123456" />
+  <User user_name="sqx" user_pass="123456" />
+  <User user_name="123" user_pass="123" />
+  <User user_name="sqx1" user_pass="123456" />
+  <User user_name="1" user_pass="1" />
+  <User user_name="2" user_pass="1" />
+</Root>
